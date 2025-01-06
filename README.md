@@ -16,6 +16,7 @@ This event blended computer science, cryptography, and creativity to create a th
 - **Immersive Storyline**: A captivating narrative guided participants through the challenges, making the event engaging and unforgettable.
 - **Diverse Puzzles**: Each clue incorporated unique problem-solving techniques, ensuring an intellectually stimulating experience.
 - **Award-Winning Execution**: Recognized as the Best Event at Drestein'24 for its innovation and impact.
+![WhatsApp Image 2025-01-06 at 19 02 05_3ba38a7b](https://github.com/user-attachments/assets/8644a9e8-7fb6-4f9d-95b9-33dde653c641)
 
 ## 📂 Repository Contents
 This repository includes:
@@ -33,11 +34,14 @@ This repository includes:
 2. **Clue Encoding**: Challenges are encoded using cryptographic methods, hidden in images, or embedded in URLs.
 3. **Participant Interaction**: Players use tools or their own problem-solving skills to decode and progress.
 4. **Victory**: The final clue unlocks the treasure, crowning the winner!
+![Crypt N Hunt Map-1](https://github.com/user-attachments/assets/ebb2270b-a3c2-41a9-adb8-2e691305d873)
+
 
 ## 🏆 Achievements
 - Awarded **Best Event** at Drestein'24 for its creative approach and flawless execution.
 - Engaged over **X** participants who rated the event as highly innovative and challenging.
 - Fostered learning and excitement in the field of cryptography and computer science.
+![WhatsApp Image 2024-11-10 at 14 06 12_18845390](https://github.com/user-attachments/assets/786bd5a2-c18f-4d17-8db3-bc6a00d45dcb)
 
 ## 🚀 Get Started
 Clone this repository to explore the puzzles and tools used:
